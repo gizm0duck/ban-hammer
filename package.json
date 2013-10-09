@@ -1,0 +1,14 @@
+{
+  "name": "ban-hammer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/coffee index.coffee"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "coffee-script": "~1.6.3"
+  }
+}
